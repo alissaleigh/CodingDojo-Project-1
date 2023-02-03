@@ -2,10 +2,10 @@
 Alissa Butler
 
 ## Loading Data
+ placeholder
+## Data Cleaning
  
-### Data Cleaning
+## Exploratory Visuals
  
-### Exploratory Visuals
- 
-#### Explanatory Visuals
+## Explanatory Visuals
  
