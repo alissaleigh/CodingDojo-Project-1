@@ -3,9 +3,9 @@ Alissa Butler
 
 ## Loading Data
  
-## Data Cleaning
+### Data Cleaning
  
-## Exploratory Visuals
+### Exploratory Visuals
  
-## Explanatory Visuals
+#### Explanatory Visuals
  
