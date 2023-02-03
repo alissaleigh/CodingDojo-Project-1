@@ -1,2 +1,2 @@
-# fuzzy-spoon
-Part 1 (Core)
+# CodingDojo Project 1
+Cell 
