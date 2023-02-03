@@ -2,7 +2,7 @@
 Alissa Butler
 
 ## Loading Data
- placeholder
+
 ## Data Cleaning
  
 ## Exploratory Visuals
