@@ -32,26 +32,20 @@ The above data goes over the sales for out diffrent stoes and the diffrent asspe
 When we ran the data through macine learning and a couple of modles, here are the results
 
 -Linear Regression Model (Testing Set):
---R^2: -1.442820300359156e+22
---MAE: 2065461996953278.5
---MSE: 6.752807031244359e+31
---RMSE: 8217546489825512.0
+
+Model Training RMSE: 1393.768110725286;
+Model Testing RMSE: 1354.415590074484
+
+Model Training R2: 0.34359904643833816;
+Model Testing R2 0.33636919530748377
 
 -Decision Tree Regressor Model (Testing Set):
---R^2: 0.186
---MAE: 41512.219
---MSE: 3809835283.133
---RMSE: 61723.863
 
-## Recommendations:
+Model Training RMSE: 1393.768110725286;
+Model Testing RMSE: 1354.415590074484
 
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
-
+Model Training R2: 0.34359904643833816;
+Model Testing R2 0.33636919530748377
 
 ### For further information
 
