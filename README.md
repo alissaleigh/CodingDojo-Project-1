@@ -24,15 +24,24 @@ The above data goes over the sales for out diffrent stoes and the diffrent asspe
 ![download](https://user-images.githubusercontent.com/118623787/224366814-1fb67c25-ca78-4d60-85c4-2928f862f41d.png)
 > The above boxplot shows the volume of each item type that as sold. It lets us know what item types we're overal selling the most
 
-#### Visual 2 Title
+#### Sales Based On Outlet Opening Year
+![download](https://user-images.githubusercontent.com/118623787/224367703-86838924-91c1-4118-8a5b-3f7ceeeb1113.png)
+>The above graft shows how the opening year of a store can effect slaes 
 
-## Model
+##Models Evaluated & Results
+When we ran the data through macine learning and a couple of modles, here are the results
 
-Describe your final model
+-Linear Regression Model (Testing Set):
+--R^2: -1.442820300359156e+22
+--MAE: 2065461996953278.5
+--MSE: 6.752807031244359e+31
+--RMSE: 8217546489825512.0
 
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+-Decision Tree Regressor Model (Testing Set):
+--R^2: 0.186
+--MAE: 41512.219
+--MSE: 3809835283.133
+--RMSE: 61723.863
 
 ## Recommendations:
 
@@ -47,4 +56,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact alissaleigh19@gmail.com
