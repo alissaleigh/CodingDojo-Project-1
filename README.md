@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+When it comes to sales it's imporant to know what is more or less likely to sale, so that we can ensure the most bang for our buck
 
 
 ### Data:
