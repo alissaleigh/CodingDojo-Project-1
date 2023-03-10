@@ -1,5 +1,5 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Food Sales Predictions
+## An Analyzation of Our Existing Sales To Help Predict Our Future
 
 **Alissa Butler**: 
 
