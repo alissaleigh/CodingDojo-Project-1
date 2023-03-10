@@ -16,17 +16,13 @@ The above data goes over the sales for out diffrent stoes and the diffrent asspe
 
 ## Methods
 - We did a data clean to ensure we the data could be worked with and was consistant
-- 
+- We also created a hisagraph and a heatmap to look at the corelations
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
 #### The Item Types to The Total Number of Sales
-![download](https://user-images.githubusercontent.com/118623787/224364947-10b816e5-9d0d-4538-9382-3e9e78a23335.png)
-
-> The above histogram shows the volume of each item type that as sold. It lets us know what item types we're overal selling the most
+![download](https://user-images.githubusercontent.com/118623787/224366814-1fb67c25-ca78-4d60-85c4-2928f862f41d.png)
+> The above boxplot shows the volume of each item type that as sold. It lets us know what item types we're overal selling the most
 
 #### Visual 2 Title
 
