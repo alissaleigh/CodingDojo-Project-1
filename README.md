@@ -9,11 +9,13 @@ When it comes to sales it's imporant to know what is more or less likely to sale
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Data source : https://docs.google.com/spreadsheets/d/1IDsDWMeUS4JZrwIVfoO-yRPmHxd9uVKtIjzjBo9vOfM/edit?usp=sharing
+
+The above data goes over the sales for out diffrent stoes and the diffrent asspects of a prodcut might effect it's ablity to sale
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
+- We did a data clean to ensure we the data could be worked with and was consistant
 - 
 
 ## Results
@@ -21,8 +23,8 @@ Data can include source and high-level description (e.g. # obs)
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### The Item Types to The Total Number of Sales
+![download](https://user-images.githubusercontent.com/118623787/224364947-10b816e5-9d0d-4538-9382-3e9e78a23335.png)
 
 > Sentence about visualization.
 
