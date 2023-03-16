@@ -28,7 +28,7 @@ The above data goes over the sales for out diffrent stoes and the diffrent asspe
 ![download](https://user-images.githubusercontent.com/118623787/224367703-86838924-91c1-4118-8a5b-3f7ceeeb1113.png)
 >The above graft shows how the opening year of a store can effect slaes 
 
-##Models Evaluated & Results
+## Models Evaluated & Results
 When we ran the data through macine learning and a couple of modles, here are the results
 
 -Linear Regression Model (Testing Set):
