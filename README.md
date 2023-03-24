@@ -33,19 +33,19 @@ When we ran the data through macine learning and a couple of modles, here are th
 
 -Linear Regression Model (Testing Set):
 
-Model Training RMSE: 1390.6953698471746; 
-Model Testing RMSE: 1352.4094325239635
+Model Training RMSE: 1208.2986676127668;
+Model Testing RMSE: 1162.7949404772457
 
-Model Training R2: 0.3464900965551808; 
-Model Testing R2 0.3383573081734896
+Model Training R2: 0.5066708827837141;
+Model Testing R2 0.5104451944264382
 
 -Decision Tree Regressor Model (Testing Set):
 
-Model Training RMSE: 1282.5061031386626; 
-Model Testing RMSE: 1277.742823800986
+Model Training RMSE: 1066.6431065544023;
+Model Testing RMSE: 1075.15076365393
 
-Model Training R2: 0.44421472432511044; 
-Model Testing R2 0.4114389393194086
+Model Training R2: 0.6155619038258137;
+Model Testing R2 0.582540261439166
 
 ### For further information
 
