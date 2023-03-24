@@ -41,11 +41,14 @@ Model Testing R2 0.5104451944264382
 
 -Decision Tree Regressor Model (Testing Set):
 
-Model Training RMSE: 1066.6431065544023;
-Model Testing RMSE: 1075.15076365393
+Model Training RMSE: 1082.6553744791681;
+Model Testing RMSE: 1057.4530115283153
 
-Model Training R2: 0.6155619038258137;
-Model Testing R2 0.582540261439166
+Model Training R2: 0.6039330279227338;
+Model Testing R2 0.595560043215285
+
+#### Why I Think The Decision Tree Is The Better Option
+When looking at the overall score I think the decision tree shows better overall results that can be brought to a stakeholder to explain why the sales are what they are. I think it looks better as well and short of know the shareholders would perfer a specific metric over another, going with the the one that looks the nicest makes the most sense to me.
 
 ### For further information
 
