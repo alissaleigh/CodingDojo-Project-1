@@ -49,11 +49,11 @@ Model Testing R2 0.595560043215285
 
 ## Linear Regression Coefficients
 ![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3e7eeae6-bce3-4ff6-8c2e-3c1e21cf5615)
-Looking at the data we can see that the type of Outlet has some of the bigest impacts within our data
+>Looking at the data we can see that the type of Outlet has some of the bigest impacts within our data
 
 ## Important Features
 ![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3f3223a8-c015-4fc2-bfd3-381b222f51c7)
-Looking at our features the fat content seems to be one of the best features as well as the item type of each sold item.
+>Looking at our features the fat content seems to be one of the best features as well as the item type of each sold item.
 
 ### For further information
 
