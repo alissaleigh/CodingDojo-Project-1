@@ -39,7 +39,7 @@ Model Testing RMSE: 1162.7949404772457
 Model Training R2: 0.5066708827837141;
 Model Testing R2 0.5104451944264382
 
--Decision Tree Regressor Model (Testing Set):
+-Tree Regressor Model (Testing Set):
 
 Model Training RMSE: 1082.6553744791681;
 Model Testing RMSE: 1057.4530115283153
@@ -47,10 +47,14 @@ Model Testing RMSE: 1057.4530115283153
 Model Training R2: 0.6039330279227338;
 Model Testing R2 0.595560043215285
 
-#### Why I Think The Decision Tree Is The Better Option
-When looking at the overall score I think the decision tree shows better overall results that can be brought to a stakeholder to explain why the sales are what they are. I think it looks better as well and short of know the shareholders would perfer a specific metric over another, going with the the one that looks the nicest makes the most sense to me.
+## Linear Regression Coefficients
+![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3e7eeae6-bce3-4ff6-8c2e-3c1e21cf5615)
+Looking at the data we can see that the type of Outlet has some of the bigest impacts within our data
+
+## Important Features
+![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3f3223a8-c015-4fc2-bfd3-381b222f51c7)
+Looking at our features the fat content seems to be one of the best features as well as the item type of each sold item.
 
 ### For further information
-
 
 For any additional questions, please contact alissaleigh19@gmail.com
