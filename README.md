@@ -66,12 +66,12 @@ Both rows that where chosen was due to them being diffrent Outlet Types and have
 ### Row 28
 ![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/6d6b235f-27fa-4c22-b5e7-33aa35e7dace)
 ![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/524e2ef3-b367-4ea6-ae72-65fe6be9b6e7)
->Looking at the dot summary we can see that the item MRP has the highest impact on our modle
+>You can see that the supermarke type has the biggest impact, espically as this item we're looking is very mostly sold at the 3rd outlet type and has increased sales becuase of that
 
 ### Row 70
 ![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/89e714c8-3309-419b-b9c8-bf49e2b5f5bd)
 ![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/175f182c-8705-4fe5-b319-ee77713664ac)
->Looking at the dot summary we can see that the item MRP has the highest impact on our modle
+>While you can still see thet type of outlet has a big impact, for this particualr item we see more of the MRP has a bigger role in the sale of this item.
 
 ### For further information
 
