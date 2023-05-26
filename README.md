@@ -55,9 +55,22 @@ Model Testing R2 0.595560043215285
 ![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3f3223a8-c015-4fc2-bfd3-381b222f51c7)
 >Looking at our features the fat content seems to be one of the best features as well as the item type of each sold item.
 
-## A Summary Plot 
-### Dot Plot
+## A Summary Dot-Plot 
 ![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/9bc86d5b-23f6-457a-ba15-b946d451108d)
+>Looking at the dot summary we can see that the item MRP has the highest impact on our modle
+
+## Examing Two Rows To Compare Data
+
+Both rows that where chosen was due to them being diffrent Outlet Types and have very diffrent MRP
+
+### Row 28
+![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/6d6b235f-27fa-4c22-b5e7-33aa35e7dace)
+![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/524e2ef3-b367-4ea6-ae72-65fe6be9b6e7)
+>Looking at the dot summary we can see that the item MRP has the highest impact on our modle
+
+### Row 70
+![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/89e714c8-3309-419b-b9c8-bf49e2b5f5bd)
+![image](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/175f182c-8705-4fe5-b319-ee77713664ac)
 >Looking at the dot summary we can see that the item MRP has the highest impact on our modle
 
 ### For further information
