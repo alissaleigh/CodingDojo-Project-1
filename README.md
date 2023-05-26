@@ -55,6 +55,11 @@ Model Testing R2 0.595560043215285
 ![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/3f3223a8-c015-4fc2-bfd3-381b222f51c7)
 >Looking at our features the fat content seems to be one of the best features as well as the item type of each sold item.
 
+## A Summary Plot 
+### Dot Plot
+![download](https://github.com/alissaleigh/food-sales-predictions/assets/118623787/9bc86d5b-23f6-457a-ba15-b946d451108d)
+>Looking at the dot summary we can see that the item MRP has the highest impact on our modle
+
 ### For further information
 
 For any additional questions, please contact alissaleigh19@gmail.com
